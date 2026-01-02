@@ -33,14 +33,14 @@ This is not just a code dump; it is a log of my "Audacious" challenge to master 
 - [ ] **Week 5:** Preprocessing & Feature Engineering.
 - [ ] **Week 6:** Regression & Classification Models (Linear, Logistic, Trees).
 - [ ] **Week 7:** Model Evaluation & Hyperparameter Tuning.
-- [ ] **Week 8:** **Project 1:** [Name of your Prediction Project - e.g., Sales Forecasting].
+- [ ] **Week 8:** **Project 1:**
 
 ### Phase 3: Deep Learning & NLP (Mar 1 - Mar 31)
 *Focus: Neural Networks, Computer Vision (Optional), Natural Language Processing*
 - [ ] **Week 9:** Neural Network Architecture (Forward/Back Propagation).
 - [ ] **Week 10:** Deep Learning Frameworks (TensorFlow/PyTorch).
 - [ ] **Week 11:** NLP Fundamentals (Regex, Embeddings, Word2Vec).
-- [ ] **Week 12:** **Project 2:** [Name of NLP Project - e.g., Automated Ticket Classification].
+- [ ] **Week 12:** **Project 2:**
 
 ### Phase 4: GenAI & The Magnum Opus (Apr 1 - May 2)
 *Focus: LLMs, RAG, Vector Databases, Deployment*
