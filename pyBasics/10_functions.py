@@ -69,3 +69,33 @@ def print_pattern_pro(num=5):
     for i in range(1, num +1):
         print("*" * i)
 
+
+
+# 4. The Scenario: You are the Chief Financial Officer (CFO) of your company. You have different teams (Marketing, Engineering, Design) sending you their list of expenses. You don't want to rewrite the for loop logic for every single team.
+#
+# The Mission:
+#
+# Write a function called calculate_total that takes one argument: expense_list (a list of numbers).
+#
+# Inside the function, use a loop to calculate the sum of all expenses.
+#
+# Return that total.
+#
+# Test it: Create two different lists (e.g., marketing_expenses and engineering_expenses) and call your function for both of them.
+
+print("\nExercise 4\n")
+
+marketing_expenses = [200, 500, 300]
+engineering_expenses = [1000, 2000, 1500]
+
+def calculate_total(expense_list):
+    total = 0
+    for expense in expense_list:
+        total += expense
+    return total
+
+marketing=calculate_total(marketing_expenses)
+engineering=calculate_total(engineering_expenses)
+
+print(marketing)
+print(engineering)
