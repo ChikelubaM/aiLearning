@@ -113,3 +113,21 @@ elif operation_input == "add":
 
 else:
     print("Invalid command!")
+
+# 3. Write circle_calc() function that takes radius of a circle as an input from user and then it calculates and returns area, circumference and diameter. You should get these values in your main program by calling circle_calc function and then print them
+
+# SOLUTION
+import math
+
+def circle_radius(radius):
+    area = math.pi * (radius ** 2)
+    circumference = 2 * math.pi * radius
+    diameter = radius * 2
+    return circumference, area, diameter
+
+user_input = float(input("Enter the radius of the circle: "))
+area, circum, diam = circle_radius(user_input)
+
+print(f"Diameter: {diam:.2f}")
+print(f"Circumference: {circum:.2f}")
+print(f"Area: {area:.2f}")
