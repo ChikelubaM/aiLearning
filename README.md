@@ -15,7 +15,7 @@ It serves as a central portfolio for:
 - **Machine Learning:** Regression, Classification, and MLOps.
 - **Deep Learning & GenAI:** NLP, Transformers, and Agentic AI.
 
-This is not just a code dump; it is a log of my "Audacious" challenge to master these concepts by **May 2026**.
+This is not just a code dump; it is a log of my "Audacious" challenge to master these concepts by **June 2026**.
 
 ---
 
